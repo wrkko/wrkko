@@ -5,12 +5,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Front-End+Developer;Building+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Always+Learning+and+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=550&lines=Front-End+Developer;Building+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Always+Learning+and+Improving" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wrkko&style=flat-square&color=000000&ab=10000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/wrkko?label=Followers&style=flat-square&color=000000&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=wrkko&style=flat-square&color=ff4500&ab=10000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/wrkko?label=Followers&style=flat-square&color=ff4500&logo=github" alt="Followers" />
 </div>
 
 ---
@@ -55,9 +55,9 @@ I enjoy turning ideas into real projects, exploring new technologies, and contin
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wrkko&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wrkko&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=FF4500&icon_color=FF4500&text_color=CCCCCC&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrkko&layout=compact&theme=github_dark&hide_border=true&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrkko&layout=compact&theme=github_dark&hide_border=true&title_color=FF4500&text_color=CCCCCC" alt="Top Languages" />
 
 </div>
 
