@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wrkko&style=flat-square&color=000000" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=wrkko&style=flat-square&color=000000&ab=10000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/wrkko?label=Followers&style=flat-square&color=000000&logo=github" alt="Followers" />
 </div>
 
@@ -55,7 +55,7 @@ I enjoy turning ideas into real projects, exploring new technologies, and contin
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wrkko&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wrkko&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrkko&layout=compact&theme=github_dark&hide_border=true&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" />
 
@@ -65,7 +65,7 @@ I enjoy turning ideas into real projects, exploring new technologies, and contin
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wrkko&theme=github-dark&hide_border=true&sideLabels=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wrkko&theme=github-dark&hide_border=true&sideLabels=true&date_format=M%2Fj%2FY" alt="GitHub Streak" />
 
 </div>
 
