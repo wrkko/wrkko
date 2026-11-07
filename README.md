@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm wrkko 👋</h1>
 
 <h3 align="center">
@@ -6,12 +5,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Front-End+Developer;Building+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Always+Learning+and+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Front-End+Developer;Building+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Always+Learning+and+Improving" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wrkko&style=flat-square&color=61dafb" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/wrkko?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=wrkko&style=flat-square&color=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/wrkko?label=Followers&style=flat-square&color=000000&logo=github" alt="Followers" />
 </div>
 
 ---
@@ -56,9 +55,9 @@ I enjoy turning ideas into real projects, exploring new technologies, and contin
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wrkko&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wrkko&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrkko&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrkko&layout=compact&theme=github_dark&hide_border=true&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" />
 
 </div>
 
@@ -66,7 +65,7 @@ I enjoy turning ideas into real projects, exploring new technologies, and contin
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wrkko&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wrkko&theme=github-dark&hide_border=true&sideLabels=true" alt="GitHub Streak" />
 
 </div>
 
@@ -77,11 +76,11 @@ I enjoy turning ideas into real projects, exploring new technologies, and contin
 <div align="center">
 
 <a href="mailto:nikolozmoney@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <a href="https://github.com/wrkko">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
