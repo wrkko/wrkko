@@ -83,6 +83,10 @@ I enjoy turning ideas into real projects, exploring new technologies, and contin
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<a href="https://www.instagram.com/wr1kko/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
 </div>
 
 ---
