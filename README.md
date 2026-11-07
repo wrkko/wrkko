@@ -27,9 +27,7 @@ I enjoy turning ideas into real projects, exploring new technologies, and contin
 - 🎨 Interested in clean UI, responsive design, and user experience.
 - 🚀 Building projects and gaining practical experience.
 - 🎯 My goal is to become a professional Front-End Developer.
-- 📫 Contact me: **[nikolozmoney@gmail.com](mailto:nikolozmoney@gmail.com)**
 
----
 
 ## 🛠️ Tech Stack & Tools
 
